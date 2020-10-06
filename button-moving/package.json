@@ -1,0 +1,15 @@
+{
+  "name": "button-moving",
+  "version": "0.0.1",
+  "description": "only for training Angular skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Angular-Training"
+  },
+  "author": "Krzysztof Dolański",
+  "license": "ISC"
+}
